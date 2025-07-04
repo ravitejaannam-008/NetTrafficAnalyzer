@@ -281,8 +281,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Raviteja Annam**
 - Network Security Engineer at Indian Railways
-- Specialized in network forensics and traffic analysis
-- Expert in Wireshark and network security tools
+- 3+ years experience in network forensics and traffic analysis
+- Expert in Wireshark, Python network programming, and security automation
+- Passionate about developing tools that solve real-world cybersecurity challenges
 
 ## 🙏 Acknowledgments
 
@@ -301,4 +302,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for network security professionals and researchers**
 
-*This tool was developed based on real-world experience in network security at Indian Railways, where manual traffic analysis with Wireshark revealed the need for automated, comprehensive network security monitoring.*
+## 💡 Project Background
+
+During my tenure as a Network Security Engineer at Indian Railways, I frequently used Wireshark for manual traffic analysis to detect data exfiltration and security threats. This repetitive process highlighted the need for an automated, comprehensive solution. I developed NetTrafficAnalyzer to:
+
+- **Automate Detection**: Replace manual analysis with intelligent anomaly detection
+- **Improve Efficiency**: Process large PCAP files quickly with detailed reporting  
+- **Enhance Visualization**: Provide intuitive dashboards for security teams
+- **Scale Analysis**: Handle enterprise-level network monitoring requirements
+
+This project demonstrates my ability to identify real-world problems and develop practical, enterprise-ready solutions using modern technologies.
